@@ -1,0 +1,5 @@
+cd
+ls
+git add * -wszystko
+git add -A - sledzenie wszystkich
+git status
