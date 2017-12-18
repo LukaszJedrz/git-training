@@ -3,3 +3,8 @@ ls
 git add * -wszystko
 git add -A - sledzenie wszystkich
 git status
+git commit -m "nazwa"
+git pull
+git push
+git show head
+git log - ca³a historia
